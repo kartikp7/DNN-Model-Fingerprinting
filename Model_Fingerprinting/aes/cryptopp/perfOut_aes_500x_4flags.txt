@@ -1,0 +1,87 @@
+
+ Performance counter stats for './outputOfExample' (500 runs):
+
+           327,100      branch-instructions                                           ( +-  0.03% )
+            35,545      branch-misses             #   10.87% of all branches          ( +-  0.07% )
+         1,240,650      cache-references                                              ( +-  0.03% )
+            27,342      cache-misses              #    2.204 % of all cache refs      ( +-  0.08% )
+
+       0.009047434 seconds time elapsed                                          ( +-  1.34% )
+
+
+ Performance counter stats for './outputOfExample' (500 runs):
+
+         3,086,125      bus-cycles                                                    ( +-  0.25% )
+         6,172,252      cpu-cycles                                                    ( +-  0.25% )
+         3,471,322      instructions              #    0.56  insn per cycle           ( +-  0.02% )
+
+       0.009467628 seconds time elapsed                                          ( +-  1.20% )
+
+
+ Performance counter stats for './outputOfExample' (500 runs):
+
+                 0      alignment-faults                                            
+                 0      bpf-output                                                  
+                 0      dummy                                                       
+
+       0.009328476 seconds time elapsed                                          ( +-  1.89% )
+
+
+ Performance counter stats for './outputOfExample' (500 runs):
+
+          6.751485      cpu-clock (msec)          #    0.850 CPUs utilized            ( +-  1.41% )
+          6.750418      task-clock (msec)         #    0.850 CPUs utilized            ( +-  1.41% )
+                 0      cpu-migrations            #    0.002 K/sec                    ( +- 35.11% )
+                 1      context-switches          #    0.122 K/sec                    ( +-  9.23% )
+
+       0.007946053 seconds time elapsed                                          ( +-  1.56% )
+
+
+ Performance counter stats for './outputOfExample' (500 runs):
+
+                 0      emulation-faults                                            
+                 0      major-faults                                                
+                99      minor-faults                                                  ( +-  0.03% )
+                99      page-faults                                                   ( +-  0.03% )
+
+       0.008119076 seconds time elapsed                                          ( +-  1.45% )
+
+
+ Performance counter stats for './outputOfExample' (500 runs):
+
+         1,240,965      L1-dcache-loads                                               ( +-  0.04% )
+            27,329      L1-dcache-load-misses     #    2.20% of all L1-dcache hits    ( +-  0.09% )
+         1,240,965      L1-dcache-stores                                              ( +-  0.04% )
+            27,329      L1-dcache-store-misses                                        ( +-  0.09% )
+
+       0.008136783 seconds time elapsed                                          ( +-  1.42% )
+
+
+ Performance counter stats for './outputOfExample' (500 runs):
+
+         2,037,645      L1-icache-loads                                               ( +-  0.04% )
+            54,752      L1-icache-load-misses                                         ( +-  0.08% )
+           572,970      branch-loads                                                  ( +-  0.03% )
+            35,403      branch-load-misses                                            ( +-  0.06% )
+
+       0.007343826 seconds time elapsed                                          ( +-  1.12% )
+
+
+ Performance counter stats for './outputOfExample' (500 runs):
+
+           138,206      LLC-loads                                                     ( +-  0.10% )
+            17,500      LLC-load-misses           #   12.66% of all LL-cache hits     ( +-  0.50% )
+           138,206      LLC-stores                                                    ( +-  0.10% )
+            17,500      LLC-store-misses                                              ( +-  0.50% )
+
+       0.006810928 seconds time elapsed                                          ( +-  0.56% )
+
+
+ Performance counter stats for './outputOfExample' (500 runs):
+
+               430      dTLB-load-misses                                              ( +-  0.58% )
+               430      dTLB-store-misses                                             ( +-  0.58% )
+               135      iTLB-load-misses                                              ( +-  0.41% )
+
+       0.009348191 seconds time elapsed                                          ( +-  1.22% )
+
