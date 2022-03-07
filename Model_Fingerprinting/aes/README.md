@@ -25,6 +25,7 @@ Generate input plaintext files
 ------------------------------
 Source
 ------------------------------
+Code has been adapted from:
 [HERMIT Benchmark Suite](https://github.com/ankurlimaye/HERMIT-BenchmarkSuite)
 
 	https://www.cryptopp.com/
