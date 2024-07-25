@@ -1,4 +1,10 @@
-# DNN Model Architecture Fingerprinting
+<h1 align="center">
+    <p> DNN Model Architecture Fingerprinting Attack on CPU-GPU Edge Devices <br> [EuroS&P 2022]</p>
+</h1>
+
+<h1 align="center"> 
+    <img src="imgs/pipeline.png" width="600">
+</h1>
 
 ## System Requirements
 
@@ -28,7 +34,17 @@ We provide all necesary files and code for performing the Adversarial Attack in 
 - `generate_adv_examples.sh` uses the ART library to generate and seperate the adversarial and benign examples for given models.
 - `full_adv_attack.sh` combines generated examples into ensemble examples from families to feed into selected victim model.
 
-## Help
+## Contact
+Kartik Patwari: [kpatwari@ucdavis.edu](kpatwari@ucdavis.edu)
 
-If you have any questions, feel free to open issue in this project or contact kpatwari@ucdavis.edu. Thank you!
-
+## Citation
+If you find DoRA useful, please consider giving a star and citation:
+```bibtex
+@inproceedings{patwari2022dnn,
+  title={DNN model architecture fingerprinting attack on CPU-GPU edge devices},
+  author={Patwari, Kartik and Hafiz, Syed Mahbub and Wang, Han and Homayoun, Houman and Shafiq, Zubair and Chuah, Chen-Nee},
+  booktitle={2022 IEEE 7th European Symposium on Security and Privacy (EuroS\&P)},
+  pages={337--355},
+  year={2022},
+  organization={IEEE}
+}
