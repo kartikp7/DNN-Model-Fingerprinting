@@ -38,7 +38,7 @@ We provide all necesary files and code for performing the Adversarial Attack in 
 Kartik Patwari: [kpatwari@ucdavis.edu](kpatwari@ucdavis.edu)
 
 ## Citation
-If you find DoRA useful, please consider giving a star and citation:
+If you find our work useful, please consider giving a star and citation:
 ```bibtex
 @inproceedings{patwari2022dnn,
   title={DNN model architecture fingerprinting attack on CPU-GPU edge devices},
