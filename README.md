@@ -1,6 +1,6 @@
-<h1 align="center">
-    <p> DNN Model Architecture Fingerprinting Attack on CPU-GPU Edge Devices <br> [EuroS&P 2022]</p>
-</h1>
+# DNN Model Architecture Fingerprinting Attack on CPU-GPU Edge Devices [EuroS&P 2022]
+
+[[`Paper`](https://www.computer.org/csdl/proceedings-article/euros&p/2022/161400a337/1ErpG7FwUms)] [[`BibTeX`](#citation)]
 
 <h1 align="center"> 
     <img src="imgs/pipeline.png" width="600">
